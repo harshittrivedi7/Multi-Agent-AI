@@ -2,7 +2,8 @@ Prodoc AI Multi-Agent System 🤖
 A multi-agent AI application built with Streamlit and powered by the Google Gemini API. This system features two distinct agents—a Text Agent for general conversation and an Image Agent for visual question-answering—managed by a central orchestrator.
 
 📸 Demo
-(It is highly recommended to add a screenshot or a GIF of the app in action here.)
+<img width="600" height="807" alt="image" src="https://github.com/user-attachments/assets/39034f4c-3174-403c-9524-ba160dea269d" />
+
 
 ✨ Features
 Multi-Agent Architecture: Implements two specialized agents:
