@@ -3,6 +3,12 @@ A multi-agent AI application built with Streamlit and powered by the Google Gemi
 
 📸 Demo
 
+Text Mode
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0413fae2-0949-4556-bd08-2a34c7f86f30" />
+
+
+Image Mode 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3be8e895-aef0-482a-90bc-250f2808c359" />
 
